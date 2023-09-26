@@ -1,1 +1,1 @@
-# projeto_ETL
+Projeto de ETL feito por [mim](https://github.com/vinnyalb) com dados fictícios para o desafio de projeto da DIO: Explorando IA Generativa em um Pipeline de ETL com Python.
